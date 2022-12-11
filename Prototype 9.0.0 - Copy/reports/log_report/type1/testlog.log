@@ -1,0 +1,6 @@
+2022-12-11 17:08:37,698 - GUI -INFO - URL opened: https://demoqa.com/elements 
+2022-12-11 17:08:37,777 - GUI -INFO - click initiated at: //span[contains(text(), 'Text Box')]
+2022-12-11 17:08:37,833 - GUI -INFO - click initiated at: //input[@id='userName']
+2022-12-11 17:08:37,982 - GUI -INFO - Input given(xpath=//input[@id='userName'])(value=Aby George)
+2022-12-11 17:08:38,100 - GUI -INFO - click initiated at: //input[@type='email']
+2022-12-11 17:08:38,238 - GUI -INFO - Input given(xpath=//input[@type='email'])(value=venkatraj@gaymail.com)
